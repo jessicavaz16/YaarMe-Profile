@@ -813,9 +813,10 @@ body {
   }
 }
 
+/*PROFILE PAGE DESIGN */
 #intro-title {
   width: 1200px;
-  margin: 80px 10px auto;
+  margin: 50px 10px auto;
   margin-bottom: 15px;
   display: flex;
   flex-direction: column;
